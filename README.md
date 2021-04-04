@@ -1,5 +1,9 @@
 # Weekly Nerd @cmda-minor-web · 2020 - 2021
 
+Hoe wil ik het uiteindelijk gaan doen:
+- Drie medium linkjes
+- In de Wiki komen de notes per twee sessies (per blok dus)
+
 Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
 
